@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Features.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -891,7 +891,7 @@
           },
           "title1": "Items",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Many New Items<br><br>Such As:<br>Hellbeam<br>Lost Courage<br>Ponger<br>And your friendly neighbourhood MERP!<br><br>",
+          "caption1": "Many New Items<br><br>Such As:<br>Hellbeam<br>Lost Courage<br>Ponger<br>And your friendly neighborhood MERP!<br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
