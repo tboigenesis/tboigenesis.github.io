@@ -558,6 +558,12 @@ h6,
 #ext_menu-l .dropdown-item[aria-expanded="true"] {
   color: #90a878!important;
 }
+#form1-t .form-control-label {
+  color: #232323;
+}
+#form1-t SMALL {
+  color: #000000;
+}
 
 
 #ext_menu-7 .hide-buttons .nav-btn {
