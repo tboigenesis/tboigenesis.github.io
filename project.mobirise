@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Features.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -125,7 +125,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Binding Of Isaac Genesis+</a>",
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Binding Of Isaac Genesis+</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Features.html\">Features</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Addons.html\">Addons</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://tboigenesis.gamepedia.com/The_Binding_of_Isaac:_Genesis_Wiki\" target=\"_blank\">Wiki</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://steamcommunity.com/sharedfiles/filedetails/?id=839571644\" target=\"_blank\">Steam Page</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://discord.gg/hZgrWPU\" target=\"_blank\">Discord</a></li>"
         },
         {
@@ -134,7 +134,10 @@
               "text-align": "center"
             },
             "SMALL": {
-              "color": "#000000"
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#b8312f"
             }
           },
           "_tags": [
@@ -145,7 +148,7 @@
           "_params": {
             "paddingTop": "5",
             "paddingBottom": 1,
-            "bgColor": "#637155",
+            "bgColor": "#353535",
             "showMeta": true
           },
           "title": "Genesis+ Addons",
@@ -163,7 +166,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#778c62",
+            "bgColor": "#535353",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -258,7 +261,18 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "H4": {
+              "color": "#b8312f"
+            },
+            "H5": {
+              "color": "#e25041"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_tags": [
@@ -384,7 +398,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Binding Of Isaac Genesis+</a>",
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Binding Of Isaac Genesis+</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Features.html\">Features</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Addons.html\">Addons</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://tboigenesis.gamepedia.com/The_Binding_of_Isaac:_Genesis_Wiki\" target=\"_blank\">Wiki</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://steamcommunity.com/sharedfiles/filedetails/?id=839571644\" target=\"_blank\">Steam Page</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://discord.gg/hZgrWPU\" target=\"_blank\">Discord</a></li>"
         },
         {
@@ -394,6 +408,9 @@
             },
             "SMALL": {
               "color": "#000000"
+            },
+            "H3": {
+              "color": "#b8312f"
             }
           },
           "_tags": [
@@ -404,11 +421,11 @@
           "_params": {
             "paddingTop": "5",
             "paddingBottom": "1",
-            "bgColor": "#637155",
+            "bgColor": "#353535",
             "showMeta": true
           },
           "title": "Demonic Descent",
-          "meta": "Coming Soon 30/4/2017"
+          "meta": ""
         },
         {
           "_inherit": "msg-box5",
@@ -418,18 +435,22 @@
           "_name": "msg-box4",
           "_styles": {
             "H3": {
-              "font-size": "46px"
+              "font-size": "46px",
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "msg-box4-b",
           "_params": {
-            "imageSize": 50,
+            "imageSize": "65",
             "paddingTop": "1",
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#90a878",
+            "bgColor": "#535353",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -566,7 +587,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
-            "bgColor": "#90a878",
+            "bgColor": "#535353",
             "showBullets": true
           },
           "_anchor": "slider2-j"
@@ -690,7 +711,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Binding Of Isaac Genesis+</a>",
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Binding Of Isaac Genesis+</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Features.html\">Features</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Addons.html\">Addons</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://tboigenesis.gamepedia.com/The_Binding_of_Isaac:_Genesis_Wiki\" target=\"_blank\">Wiki</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://steamcommunity.com/sharedfiles/filedetails/?id=839571644\" target=\"_blank\">Steam Page</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://discord.gg/hZgrWPU\" target=\"_blank\">Discord</a></li>"
         },
         {
@@ -700,21 +721,24 @@
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
-              "color": "#232323"
+              "color": "#ffffff"
             },
             "SMALL": {
-              "color": "#000000"
+              "color": "#e25041"
+            },
+            ".mbr-section-title": {
+              "color": "#b8312f"
             }
           },
           "_anchor": "form1-t",
           "_params": {
-            "labelsColor": "#232323",
+            "labelsColor": "#ffffff",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#90a878",
+            "bgColor": "#535353",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
@@ -872,7 +896,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-danger\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Binding Of Isaac Genesis+</a>",
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Binding Of Isaac Genesis+</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Features.html\">Features</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Addons.html\">Addons</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://tboigenesis.gamepedia.com/The_Binding_of_Isaac:_Genesis_Wiki\" target=\"_blank\">Wiki</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://steamcommunity.com/sharedfiles/filedetails/?id=839571644\" target=\"_blank\">Steam Page</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://discord.gg/hZgrWPU\" target=\"_blank\">Discord</a></li>"
         },
         {
@@ -902,6 +926,9 @@
             },
             "SMALL": {
               "color": "#000000"
+            },
+            "H3": {
+              "color": "#b8312f"
             }
           },
           "_tags": [
@@ -912,7 +939,7 @@
           "_params": {
             "paddingTop": "5",
             "paddingBottom": "1",
-            "bgColor": "#637155",
+            "bgColor": "#353535",
             "showMeta": false
           },
           "title": "Features",
@@ -925,18 +952,24 @@
           "_name": "features1",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#90a878"
+              "background-color": "#686868"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#b8312f"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#b8312f"
             }
           },
           "_anchor": "features1-z",
           "_params": {
-            "columnsColor": "#90a878",
+            "columnsColor": "#686868",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#758961",
+            "bgColor": "#535353",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -978,7 +1011,7 @@
           },
           "title2": "Characters",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "5 New Characters<br><br>The Drawn<br>The Soulless<br>Lucifer<br>Xaphan<br>Barneal",
+          "caption2": "<b>5 New Characters<br></b><br><b>The Drawn<br>The Soulless<br>Lucifer<br>Xaphan<br>Barneal</b>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -1002,7 +1035,7 @@
           },
           "title4": "Bosses",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "1 Custom Boss<br><br>The Serpent",
+          "caption4": "<b>1 Custom Boss<br><br>The Serpent</b>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
